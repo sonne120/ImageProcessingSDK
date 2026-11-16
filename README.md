@@ -1,10 +1,9 @@
-[![Downloads](https://img.shields.io/github/downloads/sonne120/ImageProcessingSDK/total)](https://github.com/sonne120/ImageProcessingSDK/releases)
-[![Latest](https://img.shields.io/github/downloads/sonne120/ImageProcessingSDK/latest/total)](https://github.com/sonne120/ImageProcessingSDK/releases/latest)
-
 ![Language](https://img.shields.io/github/languages/top/sonne120/ImageProcessingSDK)
+![Languages](https://img.shields.io/github/languages/count/sonne120/ImageProcessingSDK)
 ![Stars](https://img.shields.io/github/stars/sonne120/ImageProcessingSDK)
+![Forks](https://img.shields.io/github/forks/sonne120/ImageProcessingSDK)
 ![Last commit](https://img.shields.io/github/last-commit/sonne120/ImageProcessingSDK)
-
+![Repo size](https://img.shields.io/github/repo-size/sonne120/ImageProcessingSDK)
 
 # image-processing-sdk
 
