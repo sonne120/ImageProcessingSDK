@@ -1,3 +1,11 @@
+[![Downloads](https://img.shields.io/github/downloads/sonne120/ImageProcessingSDK/total)](https://github.com/sonne120/ImageProcessingSDK/releases)
+[![Latest](https://img.shields.io/github/downloads/sonne120/ImageProcessingSDK/latest/total)](https://github.com/sonne120/ImageProcessingSDK/releases/latest)
+
+![Language](https://img.shields.io/github/languages/top/sonne120/ImageProcessingSDK)
+![Stars](https://img.shields.io/github/stars/sonne120/ImageProcessingSDK)
+![Last commit](https://img.shields.io/github/last-commit/sonne120/ImageProcessingSDK)
+
+
 # image-processing-sdk
 
 A small C++ image-processing library (with a C API) and a Qt GUI client.
